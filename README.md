@@ -1,2 +1,5 @@
 # HR-Analytics---Attrition-Prediction
  An IT company has contracted an HR analytics firm to understand changes they should make to their workplace, to retain their employees. You are required to model the probability of attrition using a logistic regression. The analysis will be used by the management to understand the factors influencing employee attrition.
+Transform and analyze workforce data in meaningful ways for human resources (HR) analytics. Get started with workforce planning using a simple Shiny app.
+
+Human resources (HR) analytics, commonly referred to as talent analytics, people analytics, and workforce analytics, is a growing field that requires deep knowledge of the HR discipline, data analytics, and the business domain. This package offers convenience methods that make it easier for an HR analytics practitioner to get value from common workforce-oriented data sets. A Shiny app is available for basic workforce planning, designed to get an organization started with the practice.
